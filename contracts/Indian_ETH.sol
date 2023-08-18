@@ -12,7 +12,7 @@ contract Indian_ETH is ERC721A{
     uint256 public maxQuantity = 5;
 
     // Base url for the nfts
-    string baseUrl = "https://gateway.pinata.cloud/ipfs/QmU57kQ4c4LVAce7DwPNdGcLHBQMYdpv1CyU8X9p1Bp5eg/";
+    string baseUrl = "https://gateway.pinata.cloud/ipfs/QmbEDdFhobfcLFkS63jGu8jR5UK61eFRo1BTwfgd1BDazZ/?_gl=1*1s22ymt*_ga*MjU2NTUxNDcuMTY5MDY3ODU2Mw..*_ga_5RMPXG14TE*MTY5MjIzODA3MS42LjEuMTY5MjIzOTk1MS41NC4wLjA.";
 
     // URL for the prompt description
     string public prompt =
