@@ -53,10 +53,12 @@ npx hardhat run scripts/approveDeposit.js --network goerli
 
 
 ## Author
-
-[Tushar Gangurde](https://github.com/Tushar282002)
+Sonia Beniwal
+soniabeniwal714@gmail.com
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-You can make a copy of the project to use for your own purposes.
+
+##Loom Video
+https://www.loom.com/share/2d27f22f2439420f858cb69561bdf037
